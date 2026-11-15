@@ -1,0 +1,91 @@
+{
+  "slug": "DW_261009_Anchor",
+  "title": "Anchor",
+  "shortTitle": "Anchor",
+  "location": {
+    "site": "",
+    "city": "Wroclaw",
+    "country": "Poland",
+    "coordinates": [
+      17.049704,
+      51.114311
+    ]
+  },
+  "year": 2019,
+  "type": "Affordable Housing",
+  "collaborators": [
+    "Dingwen Wu",
+    "Bo Pan",
+    "Dea Baze"
+  ],
+  "awards": [],
+  "keywords": [
+    "Affordability",
+    "Community"
+  ],
+  "summary": "",
+  "description": [
+    "The gentrification process in neighborhood is usually indicated as the rising of house prices and an increase in median household income. As the fourth biggest city in Poland, Wroclaw is under gentrification and see a loss of low-income households.",
+    "To build resilience to the gentrifying neighborhood, we designed an affordable house for mix-income residences. By providing multiple plans for different households, we want to explore a way to anchor the low-income people and enhance community life."
+  ],
+  "hero": {
+    "file": "cover.webp",
+    "alt": "Anchor — project cover",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2400.webp",
+        "width": 2400
+      }
+    ],
+    "width": 2600,
+    "height": 1935
+  },
+  "images": [
+    {
+      "file": "01 CONTEXT.jpg",
+      "alt": "Anchor — site context and analysis",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "02 STRATEGY.jpg",
+      "alt": "Anchor — project sheet 2",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "03 PLAN.jpg",
+      "alt": "Anchor — project sheet 3",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "04 MODEL.jpg",
+      "alt": "Anchor — project sheet 4",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "05 MOMENTS.jpg",
+      "alt": "Anchor — project sheet 5",
+      "caption": "",
+      "description": ""
+    }
+  ],
+  "imageCredits": "",
+  "color": "#8a9b78",
+  "storyTitle": "Project Narrative",
+  "narrativePlacement": "sidebar"
+}

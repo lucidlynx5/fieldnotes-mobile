@@ -1,0 +1,158 @@
+{
+  "slug": "ZZ_261011_Maurice River",
+  "title": "New sediment ground",
+  "shortTitle": "New sediment ground",
+  "year": 2022,
+  "location": {
+    "city": "Maurice River Estuary, New Jersey",
+    "country": "United States",
+    "coordinates": [
+      -75.0440674,
+      39.2137252
+    ],
+    "coordinatePrecision": "estuary reference point",
+    "coordinateSource": "https://www.topozone.com/new-jersey/cumberland-nj/stream/maurice-river-2/"
+  },
+  "type": "Coastal landscape design",
+  "collaborators": [
+    "Lillian Chung Kwan Yu",
+    "Kyle Johnson",
+    "Zitong Huang"
+  ],
+  "awards": [],
+  "keywords": [
+    "sedimentation",
+    "salt marshes",
+    "biodiversity",
+    "coastal resilience"
+  ],
+  "summary": "Rock sills and gabion structures redirect water and trap sediment in the Maurice River Estuary, creating varied elevations for salt-marsh recovery, oyster and migratory bird habitats, recreation, and flood protection.",
+  "storyTitle": "Project narrative",
+  "description": [
+    "Rising sea levels have led to the continuous disappearance of salt marshes regionally and locally along the coast of New Jersey, destroying natural habitats that play a significant ecological, economical, and cultural role for the area. The influence of daily tidal fluctuation combined with the discharge of the Maurice River cause substantial movement of sediment within the bay. Our goal is to accelerate the deposition and stabilization of sediment within the inner gulf area at the second meander of Maurice estuary in order to restore elevational conditions needed for salt marsh species growth. For example, native salt marsh grasses Distichlis spicata is naturally found at slightly lower elevations, while Spartina patens and Spartina alterniflora grow on even lower elevations. The inner gulf area was likely formed due to the blowout of the dikes surrounding previous Spartina farms. Compared to other locations along the River, this area is subject to lower wave energy and tidal velocity, which offers additional protection for successful sediment accumulation and vegetation establishment across time. Porous structures, such as rock sills or gabion stones, will help redirect the flow of water and trap sediment at designated locations, creating new grounds with different elevations for a salt marsh to establish and recolonize over time. The geometry and arrangement of rock sills or gabion stones can serve as potential habitats for oysters as well as wildlife loafing structures. The establishment of a salt marsh within the bay will not only restore foraging habitat for migratory birds along the Atlantic Flyway, but will also create recreational opportunities for the community, such as intertidal walks and fishing ground, and dissipate waves to provide flood protection to the neighboring townships."
+  ],
+  "hero": {
+    "file": "web/plan.webp",
+    "alt": "Plan — New sediment ground",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2100.webp",
+        "width": 2100
+      }
+    ],
+    "width": 2100,
+    "height": 1062
+  },
+  "images": [
+    {
+      "file": "web/section.webp",
+      "alt": "Section — New sediment ground",
+      "caption": "Section",
+      "description": ""
+    },
+    {
+      "file": "web/mean-high-water.webp",
+      "alt": "Mean High Water (+1.99ft) — New sediment ground",
+      "caption": "Mean High Water (+1.99ft)",
+      "description": ""
+    },
+    {
+      "file": "web/mean-tidal-level.webp",
+      "alt": "Mean Tidal Level (-0.45ft) — New sediment ground",
+      "caption": "Mean Tidal Level (-0.45ft)",
+      "description": ""
+    },
+    {
+      "file": "web/mean-low-water.webp",
+      "alt": "Mean Low Water (-2.86ft) — New sediment ground",
+      "caption": "Mean Low Water (-2.86ft)",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-1.webp",
+      "alt": "BAYWATCH1 — New sediment ground",
+      "caption": "BAYWATCH1",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-2.webp",
+      "alt": "BAYWATCH2 — New sediment ground",
+      "caption": "BAYWATCH2",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-3.webp",
+      "alt": "BAYWATCH3 — New sediment ground",
+      "caption": "BAYWATCH3",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-4.webp",
+      "alt": "BAYWATCH4 — New sediment ground",
+      "caption": "BAYWATCH4",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-5.webp",
+      "alt": "BAYWATCH5 — New sediment ground",
+      "caption": "BAYWATCH5",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-6.webp",
+      "alt": "BAYWATCH6 — New sediment ground",
+      "caption": "BAYWATCH6",
+      "description": ""
+    },
+    {
+      "file": "web/baywatch-7.webp",
+      "alt": "BAYWATCH7 — New sediment ground",
+      "caption": "BAYWATCH7",
+      "description": ""
+    }
+  ],
+  "layout": [
+    {
+      "kind": "maurice-tides",
+      "files": [
+        "web/section.webp",
+        "web/mean-high-water.webp",
+        "web/mean-tidal-level.webp",
+        "web/mean-low-water.webp"
+      ]
+    },
+    {
+      "kind": "maurice-comparisons",
+      "files": [
+        "web/baywatch-1.webp",
+        "web/baywatch-2.webp",
+        "web/baywatch-3.webp",
+        "web/baywatch-4.webp",
+        "web/baywatch-5.webp",
+        "web/baywatch-6.webp"
+      ]
+    },
+    {
+      "kind": "maurice-sheet",
+      "files": [
+        "web/baywatch-7.webp"
+      ]
+    }
+  ],
+  "presentation": "reference-sheet",
+  "narrativePlacement": "sidebar",
+  "color": "#64928c",
+  "imageCredits": ""
+}

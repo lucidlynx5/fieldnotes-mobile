@@ -1,0 +1,52 @@
+{
+  "slug": "DW_261009_Pollution",
+  "title": "POLLUTION",
+  "shortTitle": "POLLUTION",
+  "location": {
+    "site": "",
+    "city": "",
+    "country": "",
+    "coordinates": null
+  },
+  "year": "",
+  "type": "",
+  "collaborators": [],
+  "awards": [],
+  "keywords": [],
+  "summary": "",
+  "description": [],
+  "hero": {
+    "file": "0.png",
+    "alt": "POLLUTION — global mapping study"
+  },
+  "images": [
+    {
+      "file": "1.png",
+      "alt": "POLLUTION — project sheet 2",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "2.png",
+      "alt": "POLLUTION — project sheet 3",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "3.jpg",
+      "alt": "POLLUTION — project sheet 4",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "4.jpg",
+      "alt": "POLLUTION — project sheet 5",
+      "caption": "",
+      "description": ""
+    }
+  ],
+  "imageCredits": "",
+  "color": "#8a9b78",
+  "storyTitle": "Project Narrative",
+  "narrativePlacement": "sidebar"
+}

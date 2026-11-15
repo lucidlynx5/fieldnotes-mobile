@@ -1,0 +1,117 @@
+{
+  "slug": "YG_261002_Berlin_2026",
+  "title": "The Latent Ground: Restaging Tilla-Durieux Park for Ecological Emergence",
+  "shortTitle": "The Latent Ground — Tilla-Durieux Park",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": [
+      13.376,
+      52.506
+    ]
+  },
+  "year": 2026,
+  "type": "Landscape design",
+  "collaborators": [],
+  "awards": [
+    {
+      "name": "Peter Joseph Lenné Prize",
+      "year": 2026,
+      "distinction": "Karl Foerster Commendation",
+      "url": "https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1723777.php"
+    }
+  ],
+  "keywords": [
+    "ecology",
+    "soil",
+    "habitat",
+    "emergence",
+    "wind",
+    "pollinators"
+  ],
+  "summary": "Tilla-Durieux-Park becomes an unfinished ecological performance: a landscape shaped by changing soils, wind, water, and succession, opening new possibilities for public life and non-human species.",
+  "description": [
+    "Tilla-Durieux-Park is reimagined not as a preserved object or a generic climate-adaptive landscape, but as an unfinished ecological performance. The original 450-metre grass sculpture, once defined by a fixed tilted plane, is transformed into an environmental instrument shaped by succession, dispersal, wind, water, maintenance, and public occupation.",
+    "At the district scale, ecological continuity is understood as a dispersal field. Seeds, pollen, insects, birds, and water move among three ecological hotspots: Potsdamer Platz, Tiergarten, and the Landwehr Canal. A future tram allows excess road space at Potsdamer Platz to be converted into planted, pedestrian, and cycling infrastructure, while Tiergarten and the canal act as contrasting reservoirs of woodland, meadow, wetland, and ruderal species. Henriette-Herz-Park and Tilla-Durieux-Park become receiving and mixing grounds where these ecologies overlap under different soil and moisture conditions.",
+    "Mobility is integrated into this framework. The tram restructures streets as civic and ecological spaces, while a new bridge connects Park am Gleisdreieck to the site through accessible human routes and quieter passages for non-human species.",
+    "At the site scale, the park’s original topography is inverted, creating lower, wetter ends and a higher, drier center. The depressions collect rainwater, receive wind and seeds, support mist and evaporative cooling, and strengthen connections to surrounding urban and canal landscapes. The central ridge contains varied sandy, rubble-rich, compacted, and woodland-edge soils that enable unpredictable plant succession rather than fixed planting beds.",
+    "Moving south, formal definition decreases as ecological openness increases. Preservation is therefore reframed as active negotiation. Through changing soils, wind-driven dispersal, disturbance, and managed succession, the park retains its sculptural and historical identity while remaining deliberately open to ecological and social change. Ruderal vegetation makes Berlin’s cycles of construction, destruction, abandonment, and control materially visible, allowing history to persist through living processes rather than static form."
+  ],
+  "hero": {
+    "file": "perspective.jpg",
+    "alt": "Three landscape perspectives showing the mist plaza, substrate islands, and wet meadow at Tilla-Durieux-Park",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2400.webp",
+        "width": 2400
+      }
+    ],
+    "width": 3167,
+    "height": 1500
+  },
+  "images": [
+    {
+      "file": "master-plan.jpg",
+      "caption": "Master plan",
+      "alt": "Updated master plan of Tilla-Durieux-Park and its surrounding connections",
+      "description": "",
+      "displayScale": 2
+    },
+    {
+      "file": "ecology-diagram.jpg",
+      "caption": "Ecological emergence",
+      "alt": "Ecological succession, dispersal and pollination corridor diagrams",
+      "description": ""
+    },
+    {
+      "file": "transportation-diagram.jpg",
+      "caption": "Transportation and connectivity",
+      "alt": "Diagrams of tram integration, street reconfiguration and pedestrian connections",
+      "description": ""
+    },
+    {
+      "file": "enlarged-plans.jpg",
+      "caption": "Plaza and bridge details",
+      "alt": "Enlarged plans of Potsdamer Platz and the proposed pedestrian bridge",
+      "description": ""
+    },
+    {
+      "file": "design-diagram.jpg",
+      "caption": "Design strategy",
+      "alt": "Diagrams of landform, gradient, connectivity and soil heterogeneity",
+      "description": ""
+    },
+    {
+      "file": "planting-strategies.jpg",
+      "caption": "Adaptive planting",
+      "alt": "Planting palettes and sections for adaptive and spontaneous planting patches",
+      "description": ""
+    },
+    {
+      "file": "site-plan.jpg",
+      "alt": "Detailed site plan of Tilla-Durieux-Park",
+      "caption": "Site plan",
+      "description": "",
+      "displayScale": 2
+    }
+  ],
+  "imageCredits": "",
+  "color": "#8a9b78",
+  "storyTitle": "An unfinished ecological performance",
+  "aliases": [
+    "the-latent-ground"
+  ],
+  "narrativePlacement": "sidebar"
+}

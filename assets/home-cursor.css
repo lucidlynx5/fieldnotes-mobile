@@ -1,0 +1,6 @@
+/* Shared small light-point cursor on all public pages. */
+.home-cursor{position:fixed;left:0;top:0;width:5px;height:5px;border-radius:50%;background:#fff9e8;box-shadow:0 0 5px #f4dea7,0 0 12px #e8cf9180;pointer-events:none!important;z-index:2147483647;visibility:hidden;margin:-2.5px 0 0 -2.5px}
+html.day .home-cursor{background:#87622d;box-shadow:0 0 4px #bd914e99,0 0 10px #d6ad6266}
+.home-cursor.is-visible{visibility:visible}
+@media(any-hover:hover) and (any-pointer:fine){html.home-cursor-active,html.home-cursor-active *{cursor:none!important}}
+

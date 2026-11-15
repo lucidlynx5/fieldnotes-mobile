@@ -1,0 +1,121 @@
+{
+  "slug": "DW_260928_Water Afterlife",
+  "title": "Water Afterlife",
+  "shortTitle": "Water Afterlife",
+  "location": {
+    "site": "",
+    "city": "Tianjin",
+    "country": "China",
+    "coordinates": [
+      117.71135,
+      39.031075
+    ]
+  },
+  "year": 2022,
+  "type": "Urban Infrastructure, Landscape Design",
+  "collaborators": [
+    "Yanhao Chai"
+  ],
+  "awards": [
+    {
+      "name": "Muse Design Award",
+      "year": 2024,
+      "distinction": "Silver Winner",
+      "url": "https://design.museaward.com/winners-info.php?id=26061"
+    },
+    {
+      "name": "New York Architectural Design Award",
+      "year": 2024,
+      "distinction": "Silver Winner",
+      "url": "https://nyarchitectureawards.com/winner-info.php?id=526"
+    },
+    {
+      "name": "London Design Awards",
+      "year": 2024,
+      "distinction": "Silver Winner",
+      "url": "https://thelondondesignawards.com/winner-info.php?id=3949"
+    }
+  ],
+  "keywords": [
+    "Water",
+    "Heat",
+    "Topography"
+  ],
+  "summary": "Water Afterlife proposed the utilization of waste heat and waste grey water to create landscape and microclimate.",
+  "description": [
+    "This project has focused on the utilization of waste heat and waste grey water to create landscape and microclimate. Huge amount of low-grade heat generated from the Rockcheck steel plant is wasted, and only half of the grey water is collected and recycled. The project proposed a heat corridor, which the waste heat from the factory can be delivered to the adjacent communities. As the temperature drops along the distance, it provides potential to create different microclimates and generate programs. In terms of the water treatment, we developed the water canals based on the existing, where stormwater is collected and purified before it flows into the river.",
+    "The project has chosen three sites with different context, one at the riverfront, one in the center of community and one surrounded by farmlands. In these sites, the heat corridor and the water canals meet up together. We developed seasonal landscape with the recovered heat and reclaimed water."
+  ],
+  "hero": {
+    "file": "Section Perspective-1.jpg",
+    "alt": "Section perspective of grey water and biomass capture in the Water Afterlife landscape",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2400.webp",
+        "width": 2400
+      }
+    ],
+    "width": 2592,
+    "height": 1728
+  },
+  "images": [
+    {
+      "file": "Context-1.jpg",
+      "alt": "Tianjin site context and waste heat and grey water resources",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Strategy-1.jpg",
+      "alt": "Waste heat corridor and microclimate strategy",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Strategy-2.jpg",
+      "alt": "Heat corridor, elevated cycle route and community landscape",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Strategy-3.jpg",
+      "alt": "Stormwater management and grey water purification strategy",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Perspective-1.jpg",
+      "alt": "Heat exchanger and constructed wetland perspectives",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Perspective-2.jpg",
+      "alt": "Seasonal perspectives of the mangrove valley and thermal basins",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "Lanform Study-1.jpg",
+      "alt": "Thermal and purification basins and landform model studies",
+      "caption": "",
+      "description": ""
+    }
+  ],
+  "imageCredits": "",
+  "color": "#8a9b78",
+  "storyTitle": "Project Narrative",
+  "narrativePlacement": "sidebar"
+}

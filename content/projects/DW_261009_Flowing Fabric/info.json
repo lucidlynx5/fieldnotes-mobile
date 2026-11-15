@@ -1,0 +1,92 @@
+{
+  "slug": "DW_261009_Flowing Fabric",
+  "title": "Flowing Fabric",
+  "shortTitle": "Flowing Fabric",
+  "location": {
+    "site": "",
+    "city": "Shanghai",
+    "country": "China",
+    "coordinates": [
+      121.493737,
+      31.240803
+    ]
+  },
+  "year": 2019,
+  "type": "",
+  "collaborators": [
+    "Dingwen Wu",
+    "Haixin Yin",
+    "Yanjie Shen",
+    "Chen Fei"
+  ],
+  "awards": [],
+  "keywords": [
+    "Connectivity",
+    "Mobility"
+  ],
+  "summary": "",
+  "description": [
+    "Shanghai is one of the biggest cities in China with important social and cultural value. However, the development of Shanghai was uneven especially along Huangpu River. The high-rises in Lujiazui CBD shows agreat contract with the neo-classic buildings and high density Lilong residence in west bank.",
+    "In this design, we want to explore a new dimension of urban design-reconnecting the city without demolishing. By creating two new urban layers parallel to the existing context, a connected urban space reorganize the city and bringing a new possibility of urban life."
+  ],
+  "hero": {
+    "file": "cover.webp",
+    "alt": "Flowing Fabric — project cover",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2400.webp",
+        "width": 2400
+      }
+    ],
+    "width": 2600,
+    "height": 1767
+  },
+  "images": [
+    {
+      "file": "01 CONTEXT.jpg",
+      "alt": "Flowing Fabric — site context and analysis",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "02 ISSUE.jpg",
+      "alt": "FLOWING FABRIC — project sheet 2",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "03 STRATEGY.jpg",
+      "alt": "FLOWING FABRIC — project sheet 3",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "04 MODEL.jpg",
+      "alt": "FLOWING FABRIC — project sheet 4",
+      "caption": "",
+      "description": ""
+    },
+    {
+      "file": "05 MOMENTS.jpg",
+      "alt": "FLOWING FABRIC — project sheet 5",
+      "caption": "",
+      "description": ""
+    }
+  ],
+  "imageCredits": "",
+  "color": "#8a9b78",
+  "storyTitle": "Project Narrative",
+  "narrativePlacement": "sidebar"
+}

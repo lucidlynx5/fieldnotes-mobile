@@ -1,0 +1,412 @@
+{
+  "slug": "JH_260927_From Ruins to Roots",
+  "title": "From Ruins to Roots",
+  "shortTitle": "From Ruins to Roots",
+  "location": {
+    "site": "Akademika Pavlova Station, Saltivskyi District",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "coordinates": [
+      36.318506,
+      50.009269
+    ],
+    "coordinatePrecision": "station reference point",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q1982377"
+  },
+  "year": 2025,
+  "type": "Landscape design",
+  "collaborators": [
+    "Jiewen Hu"
+  ],
+  "awards": [
+    {
+      "name": "Streetlife Competition",
+      "year": 2025,
+      "distinction": "Finalist",
+      "url": "https://streetlifedesigncompetition.com/from-ruins-to-roots/"
+    },
+    {
+      "name": "ASLA PA-DE",
+      "year": 2025,
+      "distinction": "Award of Excellence: Analysis & Planning",
+      "url": "https://www.padeasla.org/awards/award-archive/2025-student-awards/#c44434e7dc4ac238a"
+    },
+    {
+      "name": "National ASLA",
+      "year": 2025,
+      "distinction": "Honor Award: General Design",
+      "url": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2025-student-awards/12175"
+    },
+    {
+      "name": "WLA Student Awards",
+      "year": 2025,
+      "distinction": "Outstanding Award: Concept – Small Design",
+      "url": "https://worldlandscapearchitect.com/student-project-from-ruins-to-roots-healing-through-unity-growing-for-the-future/"
+    }
+  ],
+  "keywords": [
+    "resilience",
+    "community",
+    "materiality",
+    "trauma-informed",
+    "process"
+  ],
+  "summary": "From Ruins to Roots reimagines vacant land around Kharkiv’s Akademika Pavlova Station as flexible public space for shelter, community connection, and long-term recovery.",
+  "storyTitle": "Project narrative",
+  "description": [
+    "Russia’s war in Ukraine has devastated cities and frayed social trust. Modern conflict targets minds as well as infrastructure, using misinformation to polarize communities. Meeting basic needs is urgent, yet cohesion must be rebuilt in parallel—and landscape architects are central to that work. Drawing on Operation Enduring Freedom, where park upgrades and reforestation helped stabilize daily life, this project reimagines metro stations as dual-purpose hubs for shelter and connection, fostering resilience during conflict and laying the groundwork for postwar recovery through adaptive, community-led interventions. In Kharkiv, metro stations have become lifelines during the ongoing conflict, providing 24/7 humanitarian aid. These deeply buried spaces offer safety, but prolonged confinement can heighten isolation and anxiety. Despite their protection, people still need access to outdoor public spaces. With many typical gathering places destroyed, the vacant areas surrounding metro stations offer opportunities for daylight, fresh air, and safe social interaction.",
+    "This project centers on Akademika Pavlova Station along the Saltivska Metro Line, located in Saltivskyi District—one of Kharkiv’s largest and most heavily damaged residential areas, marked by limited public space and fragmented commercial activity. The station lies near low-rise housing with insufficient access to shelter and ongoing humanitarian support. Its surroundings, dominated by expansive parking lots, present great potential for redevelopment.",
+    "These vacant lots offer opportunities for surgical interventions that can transform them into public amenities, fostering community connection and resilience during conflict. Community-driven recovery is essential for both individual healing and rebuilding social bonds. Empowering residents in the rebuilding process fosters a sense of control and purpose amid instability. Even small-scale actions—like creating temporary green spaces—carry profound meaning. Activities such as community gardening or public art workshops offer stability and help restore normalcy. Spaces for expression—like murals or storytelling events—help residents to process trauma and reconnect with others. Initiatives such as community seed banks, aimed at restoring war-torn ecosystems by propagating phytoremediation seeds and raising awareness of the conflict’s environmental impact, can also foster a sense of purpose and agency. These “quick and dirty” interventions build collaboration, solidarity, and belonging, evolving into lasting spaces that preserve community resilience.",
+    "The design begins with material exploration, inspired by initiatives like Zero Waste Kharkiv that reframe war debris as a valuable resource. Cataloging available materials and using photo collages to study spatial and formal relationships embeds material thinking into the design process. A clear circulation framework then organizes the site, linking public, semi-private, and private spaces. A north-south pedestrian axis connects the metro station to Barabashovo Market, while an east-west route links to the Kharkiv River—embedding the project into broader urban and ecological systems. Flexible spaces support a range of uses, from aid distribution to public celebrations. Features like a community lawn that doubles as a helicopter landing zone and a multipurpose center ensure long-term preparedness. A local seed bank, integrated into the community garden, supports both ecological restoration and food security.",
+    "The vacant land around Akademika Pavlova Station—serving as both shelter and transit hub—can be reimagined as a flexible public space that addresses immediate needs while laying the groundwork for long-term recovery. It transforms war-induced devastation into an opportunity for more resilient community. At the regional scale, its position along a potential commercial spine and near the Kharkiv River allows it to link economic and ecological systems. Quick-win projects like this can catalyze broader development, delivering visible impact, creating jobs, and rebuilding trust over time."
+  ],
+  "hero": {
+    "file": "web/concept-materiality.webp",
+    "alt": "Material palette and collage studies exploring the reuse of war debris in From Ruins to Roots",
+    "previews": [
+      {
+        "file": "previews/hero-400.webp",
+        "width": 400
+      },
+      {
+        "file": "previews/hero-800.webp",
+        "width": 800
+      },
+      {
+        "file": "previews/hero-1600.webp",
+        "width": 1600
+      },
+      {
+        "file": "previews/hero-2400.webp",
+        "width": 2400
+      }
+    ],
+    "width": 3200,
+    "height": 4000
+  },
+  "book": {
+    "mode": "spreads",
+    "placement": "before-images",
+    "pages": [
+      {
+        "file": "web/booklet/cover.webp",
+        "kind": "cover",
+        "label": "Cover",
+        "width": 2400,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet cover",
+        "pdfPages": [
+          1
+        ]
+      },
+      {
+        "file": "web/booklet/spread-01.webp",
+        "kind": "spread",
+        "label": "Pages 2–3",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 2 and 3",
+        "pdfPages": [
+          2,
+          3
+        ]
+      },
+      {
+        "file": "web/booklet/spread-02.webp",
+        "kind": "spread",
+        "label": "Pages 4–5",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 4 and 5",
+        "pdfPages": [
+          4,
+          5
+        ]
+      },
+      {
+        "file": "web/booklet/spread-03.webp",
+        "kind": "spread",
+        "label": "Pages 6–7",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 6 and 7",
+        "pdfPages": [
+          6,
+          7
+        ]
+      },
+      {
+        "file": "web/booklet/spread-04.webp",
+        "kind": "spread",
+        "label": "Pages 8–9",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 8 and 9",
+        "pdfPages": [
+          8,
+          9
+        ]
+      },
+      {
+        "file": "web/booklet/spread-05.webp",
+        "kind": "spread",
+        "label": "Pages 10–11",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 10 and 11",
+        "pdfPages": [
+          10,
+          11
+        ]
+      },
+      {
+        "file": "web/booklet/spread-06.webp",
+        "kind": "spread",
+        "label": "Pages 12–13",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 12 and 13",
+        "pdfPages": [
+          12,
+          13
+        ]
+      },
+      {
+        "file": "web/booklet/spread-07.webp",
+        "kind": "spread",
+        "label": "Pages 14–15",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 14 and 15",
+        "pdfPages": [
+          14,
+          15
+        ]
+      },
+      {
+        "file": "web/booklet/spread-08.webp",
+        "kind": "spread",
+        "label": "Pages 16–17",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 16 and 17",
+        "pdfPages": [
+          16,
+          17
+        ]
+      },
+      {
+        "file": "web/booklet/spread-09.webp",
+        "kind": "spread",
+        "label": "Pages 18–19",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 18 and 19",
+        "pdfPages": [
+          18,
+          19
+        ]
+      },
+      {
+        "file": "web/booklet/spread-10.webp",
+        "kind": "spread",
+        "label": "Pages 20–21",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 20 and 21",
+        "pdfPages": [
+          20,
+          21
+        ]
+      },
+      {
+        "file": "web/booklet/spread-11.webp",
+        "kind": "spread",
+        "label": "Pages 22–23",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 22 and 23",
+        "pdfPages": [
+          22,
+          23
+        ]
+      },
+      {
+        "file": "web/booklet/spread-12.webp",
+        "kind": "spread",
+        "label": "Pages 24–25",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 24 and 25",
+        "pdfPages": [
+          24,
+          25
+        ]
+      },
+      {
+        "file": "web/booklet/spread-13.webp",
+        "kind": "spread",
+        "label": "Pages 26–27",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 26 and 27",
+        "pdfPages": [
+          26,
+          27
+        ]
+      },
+      {
+        "file": "web/booklet/spread-14.webp",
+        "kind": "spread",
+        "label": "Pages 28–29",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 28 and 29",
+        "pdfPages": [
+          28,
+          29
+        ]
+      },
+      {
+        "file": "web/booklet/spread-15.webp",
+        "kind": "spread",
+        "label": "Pages 30–31",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 30 and 31",
+        "pdfPages": [
+          30,
+          31
+        ]
+      },
+      {
+        "file": "web/booklet/spread-16.webp",
+        "kind": "spread",
+        "label": "Pages 32–33",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 32 and 33",
+        "pdfPages": [
+          32,
+          33
+        ]
+      },
+      {
+        "file": "web/booklet/spread-17.webp",
+        "kind": "spread",
+        "label": "Pages 34–35",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 34 and 35",
+        "pdfPages": [
+          34,
+          35
+        ]
+      },
+      {
+        "file": "web/booklet/spread-18.webp",
+        "kind": "spread",
+        "label": "Pages 36–37",
+        "width": 4800,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet, pages 36 and 37",
+        "pdfPages": [
+          36,
+          37
+        ]
+      },
+      {
+        "file": "web/booklet/back-cover.webp",
+        "kind": "backcover",
+        "label": "Back cover",
+        "width": 2400,
+        "height": 2400,
+        "alt": "From Ruins to Roots booklet back cover",
+        "pdfPages": [
+          38
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "file": "web/concept-phasing.webp",
+      "caption": "",
+      "alt": "Phasing diagram showing community activities during war and postwar recovery",
+      "description": ""
+    },
+    {
+      "file": "web/plan.webp",
+      "caption": "",
+      "alt": "Site plan for public space and community amenities around Akademika Pavlova Station",
+      "description": ""
+    },
+    {
+      "file": "web/perspective-1.webp",
+      "caption": "",
+      "alt": "Wartime aid distribution and postwar community gathering around Akademika Pavlova Station",
+      "description": ""
+    },
+    {
+      "file": "web/perspective-2.webp",
+      "caption": "",
+      "alt": "Community market, healing woods, and seed bank perspectives with a landscape section",
+      "description": ""
+    },
+    {
+      "file": "web/perspective-3.webp",
+      "caption": "",
+      "alt": "Evening community gathering around a fire in the postwar landscape",
+      "description": ""
+    },
+    {
+      "file": "web/perspective-4.webp",
+      "caption": "",
+      "alt": "Public landscape adapted to provide shelter and humanitarian support during future conflict",
+      "description": ""
+    }
+  ],
+  "layout": [
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/concept-phasing.webp"
+      ]
+    },
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/plan.webp"
+      ]
+    },
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/perspective-1.webp"
+      ]
+    },
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/perspective-2.webp"
+      ]
+    },
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/perspective-3.webp"
+      ]
+    },
+    {
+      "kind": "project-sequence",
+      "files": [
+        "web/perspective-4.webp"
+      ]
+    }
+  ],
+  "imageCredits": "-",
+  "color": "#8a9b78",
+  "narrativePlacement": "sidebar",
+  "presentation": "reference-sheet",
+  "pageTheme": "day"
+}

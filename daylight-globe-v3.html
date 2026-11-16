@@ -300,9 +300,10 @@ html .globe-wrap .marker.active .core{background:#c0ed65;box-shadow:0 0 0 2px #c
 html .globe-wrap .marker .ring{border-color:#c0ed65;box-shadow:0 0 8px #c0ed6540;}
 html.day .globe-wrap .marker .core{background:var(--accent);border-color:#202522;box-shadow:none;}
 html.day .globe-wrap .marker.active .core{background:var(--accent);border-color:#202522;box-shadow:0 0 0 1px #fff;}
-html.day .globe-wrap .marker .ring{border-color:var(--accent);box-shadow:none;}
+html.day .globe-wrap .marker .ring{border:1.5px solid var(--accent);box-shadow:0 0 0 1px #202522,inset 0 0 0 1px #202522;}
 .card.is-selected .card-frame img{filter:none}
-html .card.is-selected .card-frame::after{background:var(--accent);color:#202522}
+html .card.is-selected .card-frame{box-shadow:0 0 0 3px var(--accent),0 16px 45px #0003}
+html .card.is-selected .card-frame::after{background:#111;color:#fff}
 </style>
 <link rel="stylesheet" href="assets/home-cursor.css?v=shared-point-1"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"></head>
 <body data-page="projects">
